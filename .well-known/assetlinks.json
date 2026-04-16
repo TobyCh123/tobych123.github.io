@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.cchalice.RTMB",
       "sha256_cert_fingerprints": [
-        "06:F1:5C:60:F3:ED:58:AF:4A:CF:8A:10:15:55:54:A9:77:24:81:07:94:1C:FC:14:E0:B4:97:22:5B:30:FB:9B"
+        "06:F1:5C:60:F3:ED:58:AF:4A:CF:8A:10:15:55:54:A9:77:24:81:07:94:1C:FC:14:E0:B4:97:22:5B:30:FB:9B",
+        "D1:97:1B:A9:DD:1B:9F:00:37:4A:D5:B4:9B:9F:25:D4:4F:43:93:C8:67:00:6E:14:0E:49:B6:D8:64:43:54:79"
       ]
     }
   }
